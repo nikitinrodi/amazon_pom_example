@@ -2,6 +2,8 @@
 
 Test created by Rodion Nikitin
 
+Hi! I decided to learn Webdriver.io framework and use it to finish my homework
+
 ==Installation==
 
 1. Install JDK 1.8+ and make sure class path is set properly.
@@ -10,6 +12,8 @@ Test created by Rodion Nikitin
         node --version
         npm --version
 4. Navigate to the framework's package.json folder and run `npm install` to grab all dependencies.
+
+original link: https://github.com/amiya-pattnaik/webdriverIO-with-cucumberBDD
 
 ==To run tests:==
 
