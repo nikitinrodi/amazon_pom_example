@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="homework1" timestamp="2018-01-24T23:59:43" time="32.61" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="baa5b645e703e5d18c49c29aa01883ba"/>
+      <property name="suiteName" value="Homework1"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+  </testsuite>
+  <testsuite name="search_amazon_com_for_the_items5" timestamp="2018-01-24T23:59:43" time="32.605" tests="21" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="baa5b645e703e5d18c49c29aa01883ba"/>
+      <property name="suiteName" value="Search Amazon.com for the items5"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I am on the amazon website6" time="32.836"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I enter &quot;LG 24UD58-B 24-Inch 4k Monitor&quot; into the search field7" time="28.944"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click the search button8" time="28.377"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I should see search results9" time="26.241"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click on top result10" time="26.086"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click add to cart11" time="22.881"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I enter &quot;Metasploit: The Penetration Tester's Guide Book&quot; into the search field12" time="19.686"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click the search button13" time="19.195"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I should see search results14" time="17.651"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click on top result15" time="17.568"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click add to cart16" time="14.556"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I enter &quot;Cup with cat picture&quot; into the search field17" time="11.624"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click the search button18" time="11.333"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I should see search results19" time="9.538"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click on top result20" time="9.445"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I take a screenshot of the page21" time="7.458"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I click add to cart22" time="6.705"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I am in the cart23" time="3.839"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I should see all items in the cart24" time="2.657"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I delete Monitor from the cart25" time="2.516"/>
+    <testcase classname="chrome.Search Amazon.com for the items5" name="I should not see Monitor in the cart26" time="0.287"/>
+  </testsuite>
+</testsuites>
